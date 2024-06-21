@@ -34,9 +34,9 @@ Will try to clean and fix any possible issues on the lessons, for example: Date 
 
 | PARAM         | DESCRIPTION |
 | ---------     | ----------- |
-| --slug        | Every lesson has a slug that identifies it, you can pass `all` if you want to update all at once |
-| --statusTo    | change the status of one or all the lessons to a particular one |
-| --statusFrom  | only apply changes to lessons with specified status |
+| --slug        | Every lesson has a slug that identifies it, you can pass `all` if you want to update all at once. |
+| --statusTo    | change the status of one or all the lessons to a particular one. |
+| --statusFrom  | only apply changes to lessons with specified status. |
 
 ### Method: download_images
 
